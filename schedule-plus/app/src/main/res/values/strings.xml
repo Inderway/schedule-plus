@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Schedule+</string>
+    <string name="button_schedule">日课</string>
 </resources>
