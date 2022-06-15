@@ -1,0 +1,1 @@
+date | tasks | finished | learningTime | score | income | expense

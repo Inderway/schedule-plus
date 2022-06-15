@@ -2,4 +2,7 @@
     <string name="app_name">Schedule+</string>
     <string name="button_schedule">日课</string>
     <string name="button_addSchedule">新建日课</string>
+    <string name="main_date">2022年6月15日\n水 榴月十七</string>
+    <string name="schedule_title">今日日课</string>
+    <string name="schedule_edit">编辑</string>
 </resources>

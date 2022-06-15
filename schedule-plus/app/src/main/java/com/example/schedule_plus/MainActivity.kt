@@ -11,6 +11,7 @@ class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
+
         val buttonSchedule: Button =findViewById(R.id.button_schedule)
         buttonSchedule.setOnClickListener{
             val intent=Intent(this, Schedule::class.java)
