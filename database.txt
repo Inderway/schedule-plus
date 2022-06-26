@@ -1,1 +1,8 @@
-date | tasks | finished | learningTime | score | income | expense
+day | tasks | finished | learningTime | score | income | expense | edited #edited类型为int，二进制0=tasks, 10=finished, 100=learningTime 1000=income, 10000=expense, 
+						      	#通过与运算知道哪些项已变动。
+
+week | tasks | finished | learningTime | score | income | expense #week为Date类型，取每周一的日期为key；tasks为周任务
+
+month | tasks | finished | learningTime | score | income | expense #month取形如2022-6为key
+
+year | tasks | finished | learningTime | score | income | expense #year取形如2022为key

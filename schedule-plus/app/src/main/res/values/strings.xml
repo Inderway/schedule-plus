@@ -5,4 +5,8 @@
     <string name="main_date">2022年6月15日\n水 榴月十七</string>
     <string name="schedule_title">今日日课</string>
     <string name="schedule_edit">编辑</string>
+    <string name="button_tomato">番茄钟</string>
+    <string name="button_account">账本</string>
+    <string name="button_statistic">统计</string>
+    <string name="button_compute">结算</string>
 </resources>
